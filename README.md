@@ -1,6 +1,7 @@
 # This is the best README ever !
 
-Put here a brieve description of your project
+TP1 Introduction GIT
+Membres du groupe : Thibaut BECK-FEYRIT & Salomon GOGA
 
 ## Get Started
 
